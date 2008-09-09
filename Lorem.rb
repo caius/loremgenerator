@@ -8,8 +8,8 @@
 
 class Lorem < NSObject
     
-  def generate( what, amount, prepend )
-    LoremGenerator.send(what.downcase.to_s, amount, prepend)
+  def generate( what, amount, prepend, wrap_tags )
+    LoremGenerator.send(what.downcase.to_s, amount, prepend, wrap_tags)
   end
   
 end

@@ -23,6 +23,6 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.rubycocoa.LoremGeneratorApp</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.3</string>
+	<string>0.4</string>
 </dict>
 </plist>
